@@ -1,0 +1,66 @@
+body {
+  background: black;
+  color: white;
+}
+
+.fortnite-info {
+  position: absolute;
+  margin-top: -90px;
+}
+
+.epic {
+  justify-content: flex-end;
+  display: flex;
+}
+
+.epic-img {
+  width: 150px;
+  height: 90px;
+  justify-content: flex-end;
+}
+
+.fortnite-info-prayer {
+  color: rgb(255, 255, 145);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 100px;
+  margin-left: 410px;
+}
+
+.fortnite-info-pray {
+  color: rgb(255, 255, 145);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 500px;
+  position: absolute;
+}
+
+span {
+  color: black;
+}
+
+.fortnite-info-prayer-content-span {
+  color: rgb(255, 255, 145);
+  margin-left: -15px;
+}
+
+.fortnite-cards-card-1 {
+  width: 300px;
+  height: 400px;
+  border: solid gray;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.fortnite-cards-card-1-content-text {
+  display: flex;
+  justify-content: center;
+}
+
+.fortnite-cards-card-1-content-about {
+  display: flex;
+  justify-content: center;
+}
